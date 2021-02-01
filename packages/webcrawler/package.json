@@ -1,0 +1,30 @@
+{
+  "name": "gestao-normas-webcrawler",
+  "version": "4.2.1",
+  "description": "> TODO: description",
+  "author": "lmarqs <lucas.paula@wipro.com>",
+  "homepage": "https://github.com/tecidosbr/gestao-normas#readme",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tecidosbr/gestao-normas.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/tecidosbr/gestao-normas/issues"
+  },
+  "dependencies": {
+    "@azure/storage-file-share": "^12.4.0",
+    "filenamify": "^4.2.0",
+    "follow-redirects": "^1.13.2",
+    "jquery": "^3.5.1",
+    "phantom": "^6.3.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.5",
+    "@types/node": "^14.14.22",
+    "@types/phantom": "^3.2.5"
+  }
+}

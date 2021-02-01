@@ -1,0 +1,278 @@
+[
+  {
+    "id": "ABNT NBR 14724:2011",
+    "titulo": "Informação e documentação – Trabalhos acadêmicos – Apresentação",
+    "objetivo": "Esta Norma especifica os princípios gerais para a elaboração de trabalhos acadêmicos (teses, dissertações e outros), visando sua apresentação à instituição (banca, comissão examinadora de professores, especialistas designados e/ou outros).",
+    "ics": "14",
+    "palavrasChave": [
+      "Documentação",
+      "Trabalho acadêmico",
+      "Tese",
+      "Dissertação",
+      "Monografia",
+      "Trabalho de conclusão de curso",
+      "Trabalho científico",
+      "Universidade"
+    ]
+  },
+  {
+    "id": "ABNT NBR 16064:2016 Versão Corrigida:2020",
+    "titulo": "Produtos têxteis para saúde – Campos cirúrgicos, aventais e roupas para sala limpa, utilizados por pacientes e profissionais de saúde e para equipamento – Requisitos e métodos de ensaio",
+    "objetivo": "Esta Norma especifica os requisitos de fabricação e processamento, bem como os métodos de ensaio e requisitos de desempenho para campos cirúrgicos, aventais cirúrgicos e roupas para sala limpa de uso único ou reutilizáveis, utilizados como produtos para saúde por pacientes e profissionais de saúde e para equipamentos.",
+    "ics": "11",
+    "palavrasChave": [
+      "Saúde",
+      "Avental",
+      "Equipamento hospitalar",
+      "Vestimenta de trabalho"
+    ]
+  },
+  {
+    "id": "ABNT NBR ISO 13688:2017",
+    "titulo": "Vestimentas de proteção – Requisitos gerais",
+    "objetivo": "Esta Norma especifica os requisitos gerais de desempenho para ergonomia, inocuidade, designações para tamanhos, envelhecimento, compatibilidade e marcação da vestimenta de proteção, além das informações a serem fornecidas pelo fabricante em relação a vestimenta de proteção.",
+    "ics": "13",
+    "palavrasChave": [
+      "Ergonomia",
+      "EPI",
+      "Equipamento de proteção individual",
+      "Vestimenta de trabalho",
+      "Vestuário de proteção"
+    ]
+  },
+  {
+    "id": "ABNT NBR 13697:2010",
+    "titulo": "Equipamento de proteção respiratória — Filtros para partículas",
+    "objetivo": "Esta Norma especifica os requisitos de filtros para partículas para uso como parte de equipamentos de proteção respiratória do tipo purificador de ar não motorizado.",
+    "ics": "13",
+    "palavrasChave": [
+      "Proteção respiratória",
+      "Filtro para partícula"
+    ]
+  },
+  {
+    "id": "ABNT NBR 13698:2011",
+    "titulo": "Equipamento de proteção respiratória — Peça semifacial filtrante para partículas",
+    "objetivo": "Esta Norma especifica os requisitos para as peças semifaciais filtrantes para as partículas utilizadas como equipamentos de proteção respiratória do tipo purificador de ar não motorizado.",
+    "ics": "13",
+    "palavrasChave": [
+      "Proteção respiratória",
+      "Peça semifacial filtrante",
+      "Máscara descartável"
+    ]
+  },
+  {
+    "id": "ABNT NBR 16360:2015",
+    "titulo": "Proteção ocular pessoal — Protetor ocular e facial tipo tela — Requisitos",
+    "objetivo": "Esta Norma estabelece os requisitos para protetores oculares e facial tipo tela quanto aos materiais, design, desempenho métodos de ensaio e marcação.",
+    "ics": "13",
+    "palavrasChave": [
+      "Óculos",
+      "Equipamento de proteção individual"
+    ]
+  },
+  {
+    "id": "ABNT NBR 15622:2008",
+    "titulo": "Nãotecido para artigo de uso odonto-médico-hospitalar – Determinação da resistência à penetração bacteriológica a úmido",
+    "objetivo": "Esta Norma especifica um método para determinação da resistência à penetração bacteriológica a úmido em nãotecidos usados em paramentação cirúrgica e correlatos.",
+    "ics": "59",
+    "palavrasChave": [
+      "Não tecido"
+    ]
+  },
+  {
+    "id": "ABNT NBR 14920:2008",
+    "titulo": "Nãotecido para artigo de uso odonto-médico-hospitalar – Determinação da resistência à penetração bacteriológica a seco",
+    "objetivo": "Esta Norma especifica o método para determinação da resistência à penetração bacteriológica a seco em nãotecidos utilizados em paramentação cirúrgica e correlatos.",
+    "ics": "59",
+    "palavrasChave": [
+      "Não tecido"
+    ]
+  },
+  {
+    "id": "ABNT NBR 14858:2010",
+    "titulo": "Artigos de nãotecidos de uso odonto-médico-hospitalar – Terminologia",
+    "objetivo": "Esta Norma define os termos para artigos de nãotecidos de uso odonto-médico-hospitalar.",
+    "ics": "11",
+    "palavrasChave": [
+      "Não tecido",
+      "Artigo odontológico"
+    ]
+  },
+  {
+    "id": "ABNT NBR 16693:2018",
+    "titulo": "Produtos têxteis para saúde – Aventais e roupas privativas para procedimento não cirurgico utilizados por profissionais de saúde e pacientes – Requisitos e métodos de ensaio",
+    "objetivo": "Esta Norma especifica os requisitos e os métodos de ensaio para avaliação das características de aventais e roupas privativas para procedimentos não cirugicos, de uso único ou reutilizáveis,utilizados como produtos para saúde por pacientes e profissionais de saúde.",
+    "ics": "59",
+    "palavrasChave": [
+      "Produto para saúde",
+      "Material têxtil",
+      "Hospital",
+      "Roupa hospitalar"
+    ]
+  },
+  {
+    "id": "ABNT NBR ISO 11193-1:2015 & ABNT NBR ISO 11193-2:2013",
+    "titulo": "Luvas para exame médico de uso único",
+    "objetivo": "Parte 1:",
+    "ics": "11",
+    "palavrasChave": [
+      "Borracha",
+      "Luvas para exame único",
+      "Riscos biológicos",
+      "Látex",
+      "Luva de borracha"
+    ]
+  },
+  {
+    "id": "ABNT NBR IEC 62366:2016",
+    "titulo": "Produtos para a saúde — Aplicação da engenharia de usabilidade a produtos para a saúde",
+    "objetivo": "Esta Norma especifica um processo para o fabricante analisar, especificar, desenvolver, verificar e validar a usabilidade, relacionadas à segurança de produtos para a saúde. Este processo de engenharia de usabilidade avalia e mitiga riscos causados por problemas de usabilidade associados à utilização correta e ao erro de utilização, sob utilização normal. Pode ser utilizado para identificar, mas não para avaliar ou mitigar riscos associados à utilização anormal.",
+    "ics": "11",
+    "palavrasChave": [
+      "Produto para saúde",
+      "Segurança",
+      "Gerenciamento de risco"
+    ]
+  },
+  {
+    "id": "ABNT ISO/TR 24971:2014",
+    "titulo": "Produtos para a saúde – Orientações para a aplicação da ABNT NBR ISO 14971",
+    "objetivo": "Este Relatório Técnico prove orientação no tratamento de partes específicas da ABNT NBR ISO 14971 na implantação do gerenciamento de risco.",
+    "ics": "11",
+    "palavrasChave": [
+      "Equipamento médico"
+    ]
+  },
+  {
+    "id": "ABNT NBR ISO 14971:2020 Versão Corrigida:2020",
+    "titulo": "Dispositivos médicos — Aplicação de gerenciamento de risco a dispositivos médicos",
+    "objetivo": "Este documento especifica a terminologia, os princípios e um processo para gerenciamento de risco de produtos para saúde, incluindo “software” como produto para saúde e produtos para saúde de diagnóstico in vitro. O processo descrito neste documento é destinado a auxiliar os fabricantes de produtos para saúde a identificar os perigos associados com o produto para saúde, estimar e avaliar os riscos associados, controlar esses riscos e monitorar a eficácia dos controles.",
+    "ics": "11",
+    "palavrasChave": [
+      "Produto para saúde"
+    ]
+  },
+  {
+    "id": "ABNT NBR IEC 60601-1-10:2010 Versão Corrigida:2013 & Emenda 1:2017",
+    "titulo": "Equipamento eletromédico",
+    "objetivo": "Esta Norma aplica-se à SEGURANÇA BÁSICA e DESEMPENHO ESSENCIAL dos EQUIPAMENTOS ELETROMÉDICOS e dos SISTEMAS ELETROMÉDICOS, a partir daqui referenciados como EQUIPAMENTOS EM e SISTEMAS EM.",
+    "ics": "11",
+    "palavrasChave": [
+      "Equipamento médico",
+      "Equipamento eletromédico"
+    ]
+  },
+  {
+    "id": "ABNT NBR ISO 80601-2-12:2014",
+    "titulo": "Equipamento eletromédico",
+    "objetivo": "Esta Norma aplica-se à segurança básica e ao desempenho essential dos ventiladores, em combinação com seus acessórios, doravante denominados equimento em.",
+    "ics": "11",
+    "palavrasChave": [
+      "Equipamento médico",
+      "Equipamento respiratório"
+    ]
+  },
+  {
+    "id": "ABNT NBR IEC 60601-1-8:2014 Versão Corrigida:2015",
+    "titulo": "Equipamento eletromédico",
+    "objetivo": "Esta Norma se aplica à segurança básica e desempenho essencial dos equipamentos eletromédicos e dos sistemas eletromédicos, a partir daqui referenciados como equipamento em e sistema em.",
+    "ics": "11",
+    "palavrasChave": [
+      "Segurança",
+      "Equipamento eletromédico",
+      "Produto médico",
+      "Sistema de alarme"
+    ]
+  },
+  {
+    "id": "ABNT NBR IEC 60601-1-6:2011 Versão Corrigida:2013",
+    "titulo": "Equipamento eletromédico",
+    "objetivo": "Esta norma especifica um PROCESSO para que o FABRICANTE analise, especifique, projete, VERIFIQUE e VALIDE a USABILIDADE, quando relacionada à SEGURANÇA BÁSICA e ao DESEMPENHO ESSENCIAL dos EQUIPAMENTOS ELETROMÉDICOS, daqui por diante denominados EQUIPAMENTOS EM.",
+    "ics": "11",
+    "palavrasChave": [
+      "Requisito",
+      "Segurança",
+      "Equipamento médico"
+    ]
+  },
+  {
+    "id": "ABNT NBR IEC 60601-1-2:2017",
+    "titulo": "Equipamento eletromédico",
+    "objetivo": "Esta Norma aplica-se à segurança básica e desempenho essencial de equipamentos eletromédicos e sistemas eletromédicos, a partir deste momento referenciados como equipamentos em e sistemas em.",
+    "ics": "11",
+    "palavrasChave": [
+      "Equipamento médico"
+    ]
+  },
+  {
+    "id": "ABNT NBR ISO 18562-1:2020",
+    "titulo": "Avaliação de biocompatibilidade de vias de gás de respiração em aplicações de cuidados à saúde",
+    "objetivo": "Este documento especifica: os princípios gerais que governam a avaliação biológica dentro de um processo de gerenciamento de risco vias de gás produtos para a saúde, suas partes ou acessórios, que são destinadas a fornecer cuidado respiratório ou fornecer substâncias por meio do trato respiratório ao paciente em todos os ambientes; a categorização geral de vias de gás com base na natureza e na duração do seu contato com o fluxo de gás; a avaliação de dados existentes pertinentes de todas as fontes; a identificação de lacunas no conjunto de dados disponíveis sobre a base de uma análise de risco; a identificação de conjuntos de dados adicionais necessária para analisar a segurança biológica via de gás; a avaliação da segurança biológica da via de gás.",
+    "ics": "11",
+    "palavrasChave": [
+      "Avaliação de risco",
+      "Anestesia",
+      "Equipamento de respiração"
+    ]
+  },
+  {
+    "id": "ABNT NBR ISO 18562-2:2020",
+    "titulo": "Avaliação de biocompatibilidade de vias de gás de respiração em aplicações de cuidados à saúde",
+    "objetivo": "Este documento especifica os ensaios para as emissões de matéria particulada vias de gás produto para a saúde, suas partes ou acessórios, os quais são destinados a fornecer cuidados respiratórios ou a fornecer substâncias pelo trato respiratório para um paciente em todos os ambientes.",
+    "ics": "11",
+    "palavrasChave": [
+      "Avaliação de risco",
+      "Anestesia",
+      "Equipamento de respiração"
+    ]
+  },
+  {
+    "id": "ABNT NBR ISO 10651-6:2015",
+    "titulo": "Ventiladores pulmonares para uso médico — Requisitos particulares para segurança e desempenho essencial (Parte 6: Equipamento de suporte ventilatório para uso domiciliar)",
+    "objetivo": "Esta Parte da ABNT NBR ISO 10651 especifica os requisitos de segurança básica e desempenho essencial para dispositivos de suporte ventilatório domiciliar, destinados principalmente para uso domiciliar, mas que poderiam ser usados em outro lugar (por exemplo, em instituições de saúde) apropriados para pacientes para os quais não é necessário o uso de ventilador de uso domiciliar em conformidade com ISO 10651-2.",
+    "ics": "11",
+    "palavrasChave": [
+      "Equipamento médico",
+      "Ventilador pulmonar",
+      "Sistema de ventilação",
+      "Ventilador de uso domiciliar",
+      "Equipamento de uso domiciliar"
+    ]
+  },
+  {
+    "id": "ABNT NBR ISO 10651-4:2011",
+    "titulo": "Ventiladores pulmonares (Parte 4: Requisitos particulares para reanimadores operados manualmente)",
+    "objetivo": "Esta Parte da ABNT NBR ISO 10651 especifica os requisitos de segurança básica e desempenho essencial para dispositivos de suporte ventilatório domiciliar, destinados principalmente para uso domiciliar, mas que poderiam ser usados em outro lugar (por exemplo, em instituições de saúde) apropriados para pacientes para os quais não é necessário o uso de ventilador de uso domiciliar em conformidade com ISO 10651-2.",
+    "ics": "11",
+    "palavrasChave": [
+      "Equipamento médico",
+      "Ventilador pulmonar",
+      "Sistema de ventilação",
+      "Ventilador de uso domiciliar",
+      "Equipamento de uso domiciliar"
+    ]
+  },
+  {
+    "id": "ABNT NBR ISO 10651-3:2014",
+    "titulo": "Ventiladores pulmonares para uso médico — Requisitos particulares de segurança e de desempenho essencial (Parte 3: Requisitos particulares para ventiladores de transporte e emergência)",
+    "objetivo": "Esta parte da ABNT NBR ISO 10651 é parte de uma série de normas com base na IEC 601-1:1988 (a “Norma Geral”); este tipo de norma é referido como uma “Norma Particular”. Como indicado em 1.3 da IEC 601-1:1988, os requisitos desta parte da ABNT NBR ISO 10651 prevalecem sobre os da IEC 601-1:1988. Onde esta parte da ABNT NBR ISO 10651 especifica que a seção da IEC 601-1 é aplicável, significa que a seção só se aplica se o requisito for relevante para o ventilador em consideração.",
+    "ics": "11",
+    "palavrasChave": [
+      "Ventilador pulmonar",
+      "Sistema de ventilação"
+    ]
+  },
+  {
+    "id": "ABNT NBR ISO 10651-5:2017",
+    "titulo": "Ventiladores pulmonares para uso médico — Requisitos particulares de segurança e de desempenho essencial (Parte 5: Reanimadores de emergência a gás)",
+    "objetivo": "Esta Parte da ABNT NBR ISO 10651 especifica os requisitos básicos de segurança e desempenho para reanimadores de emergência a gás (3.10), para uso com humanos por socorristas. Este equipamento se destina à área de emergências e é destinado a ser continuamente assistido por um operador em uso normal.",
+    "ics": "11",
+    "palavrasChave": [
+      "Equipamento médico",
+      "Ventilador pulmonar",
+      "Sistema de ventilação",
+      "Ventilador de uso domiciliar"
+    ]
+  }
+]
