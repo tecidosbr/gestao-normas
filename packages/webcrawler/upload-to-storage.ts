@@ -1,4 +1,4 @@
-import { ShareServiceClient } from '@azure/storage-file-share';
+import { BlobServiceClient as ServiceClient } from '@azure/storage-blob';
 
 import fs from 'fs';
 import dotenv from 'dotenv-flow';
@@ -7,15 +7,15 @@ import dotenv from 'dotenv-flow';
     try {
         dotenv.config();
 
-        const serviceClient = ShareServiceClient.fromConnectionString(process.env.AZURE_STORAGE_CONNECTION_STRING);
+        const serviceClient = ServiceClient.fromConnectionString(process.env.AZURE_STORAGE_CONNECTION_STRING);
 
-        const containerClient = serviceClient.getShareClient('gestao-normas');
-        const directoryClient = containerClient.getDirectoryClient('norma');
+        const containerClient = serviceClient.getContainerClient('gestao-normas');
 
         const dir = '/Users/lu20161971/workspace/gestao-normas/packages/webcrawler/out';
 
         for (const filaname of fs.readdirSync(dir)) {
-            const fileClient = directoryClient.getFileClient(filaname);
+            const fileClient = await containerClient.getBlockBlobClient(filaname);
+            await fileClient.deleteIfExists();
             await fileClient.uploadFile(`${dir}/${filaname}`);
         }
     } catch (e) {
