@@ -8,8 +8,6 @@ jobs:
   main:
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     runs-on: ubuntu-latest
-    env:
-      NODE_ENV: production
     steps:
 
     - name: 'Checkout Source Code'
@@ -30,6 +28,8 @@ jobs:
 
     - name: 'Build'
       run: npm run build
+      env:
+        NODE_ENV: production
 
     - name: 'Test'
       run: npm run coverage
