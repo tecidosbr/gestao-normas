@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/tecidosbr/gestao-normas/compare/v1.0.0...v1.0.1) (2021-02-03)
+
+
+### Bug Fixes
+
+* ci pipeline ([a24f195](https://github.com/tecidosbr/gestao-normas/commit/a24f195b0f74ec376e0d0b63474b95ef6cd899f9))
+
 # 1.0.0 (2021-02-03)
 
 
