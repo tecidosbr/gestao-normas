@@ -1,7 +1,7 @@
 import React, { FunctionComponent, useState } from 'react';
 import { useForm } from "react-hook-form";
 
-import { ComiteListDto, OrganismoListDto, IcsListDto, NormaListDto, SearchNormaDto } from "../../../../service/src/dto";
+import { IcsListDto, NormaListDto, SearchNormaDto } from "../../../../service/src/dto";
 import { useFetchApi } from '../../api';
 
 const bodyStyle = {
@@ -20,9 +20,9 @@ export const App: FunctionComponent = () => {
   const { data: normas } = useFetchApi<NormaListDto>(`norma/search?${new URLSearchParams(searchNormaDto)}`);
 
   const { register, handleSubmit, reset } = useForm<{
-    palavrasChave: string,
-    titulo: string,
-    ics: string,
+    palavrasChave: string;
+    titulo: string;
+    ics: string;
   }>();
 
   const onSubmit = handleSubmit((data) => {
