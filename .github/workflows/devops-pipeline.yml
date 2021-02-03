@@ -8,6 +8,8 @@ jobs:
   main:
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     runs-on: ubuntu-latest
+    env:
+      NODE_ENV: production
     steps:
 
     - name: 'Checkout Source Code'
