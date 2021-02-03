@@ -14,7 +14,7 @@ const bodyStyle = {
 };
 
 export const App: FunctionComponent = () => {
-  const [searchNormaDto, setSearchNormaDto] = useState<Record<keyof SearchNormaDto, string>>({ search: '*', filter: '' }); 
+  const [searchNormaDto, setSearchNormaDto] = useState<Record<keyof SearchNormaDto, string>>({ search: '*', filter: '' });
 
   const { data: icss } = useFetchApi<IcsListDto>('ics');
   const { data: normas } = useFetchApi<NormaListDto>(`norma/search?${new URLSearchParams(searchNormaDto)}`);
@@ -103,7 +103,11 @@ export const App: FunctionComponent = () => {
                     <th>{n.codigo}</th>
                     <td className="d-none d-md-table-cell">{n.titulo}</td>
                     <td className="d-none d-md-table-cell">{n.palavrasChave.join(', ')}</td>
-                    <td><a type="button" className="btn btn-primary bi-download" target="_blank" rel="noopener noreferrer" href={`https://sigo.blob.core.windows.net/gestao-normas/${n.filename}`} /></td>
+                    <td>
+                      <a type="button" className="btn btn-primary" target="_blank" rel="noopener noreferrer" href={`https://sigo.blob.core.windows.net/gestao-normas/${n.filename}`}>
+                        <i className="bi-download" />
+                      </a>
+                    </td>
                   </tr>
                 ))}
               </tbody>
