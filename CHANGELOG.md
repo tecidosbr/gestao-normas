@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/tecidosbr/gestao-normas/compare/v1.0.10...v1.0.11) (2021-02-04)
+
+
+### Reverts
+
+* Revert "fix: remove dependencies from pack" ([efb64cd](https://github.com/tecidosbr/gestao-normas/commit/efb64cda25c3b392b2084cd3c22cc4b1f98475e0))
+
 ## [1.0.10](https://github.com/tecidosbr/gestao-normas/compare/v1.0.9...v1.0.10) (2021-02-04)
 
 
