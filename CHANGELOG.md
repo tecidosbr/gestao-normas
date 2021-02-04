@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/tecidosbr/gestao-normas/compare/v1.0.13...v1.1.0) (2021-02-04)
+
+
+### Features
+
+* use azure-api for service requests ([da4041f](https://github.com/tecidosbr/gestao-normas/commit/da4041f4027abd6b24ddd0935ea8b0d6a058aad6))
+
 ## [1.0.13](https://github.com/tecidosbr/gestao-normas/compare/v1.0.12...v1.0.13) (2021-02-04)
 
 
