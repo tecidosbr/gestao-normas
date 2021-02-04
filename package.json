@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "build": "lerna run build --parallel",
-    "coverage": "lerna run coverage --parallel",
+    "coverage": "lerna run coverage --parallel -- --coverageReporters lcov",
     "lint": "lerna run lint --parallel",
     "postinstall": "lerna exec  --parallel -- npm ci",
     "release": "npx semantic-release",
