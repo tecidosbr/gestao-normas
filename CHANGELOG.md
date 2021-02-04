@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/tecidosbr/gestao-normas/compare/v1.0.11...v1.0.12) (2021-02-04)
+
+
+### Bug Fixes
+
+* Update azurex-pipelines.yml for Azure Pipelines ([7ea25b9](https://github.com/tecidosbr/gestao-normas/commit/7ea25b98a79806bd98a8e1c45ececb7fbf087e46))
+
 ## [1.0.11](https://github.com/tecidosbr/gestao-normas/compare/v1.0.10...v1.0.11) (2021-02-04)
 
 
