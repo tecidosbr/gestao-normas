@@ -10,7 +10,7 @@ export function useFetchApi<T>(path: string) {
         try {
           setData(null);
           setLoading(true);
-          const response = await fetch(`api/${path}`);
+          const response = await fetch(`${process.env.SERVICE_URL}/${path}`);
           setData(await response.json());
         } catch (e) {
           setError(e);
