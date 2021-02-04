@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/tecidosbr/gestao-normas/compare/v1.0.5...v1.0.6) (2021-02-04)
+
+
+### Bug Fixes
+
+* auth level ([5e3c545](https://github.com/tecidosbr/gestao-normas/commit/5e3c54577067c422b7140a91dd8159a17e3dcefc))
+
 ## [1.0.5](https://github.com/tecidosbr/gestao-normas/compare/v1.0.4...v1.0.5) (2021-02-04)
 
 
