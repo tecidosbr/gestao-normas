@@ -1,3 +1,15 @@
+## [1.0.9](https://github.com/tecidosbr/gestao-normas/compare/v1.0.8...v1.0.9) (2021-02-04)
+
+
+### Bug Fixes
+
+* ci pipeline ([56acd9a](https://github.com/tecidosbr/gestao-normas/commit/56acd9a408990f252a06e21a0774f019d1bd75f4))
+* ci pipeline ([1b1991b](https://github.com/tecidosbr/gestao-normas/commit/1b1991b727f7d51f9c708c248ca232bd4c5f0bfc))
+* ci pipeline ([90ffe70](https://github.com/tecidosbr/gestao-normas/commit/90ffe704d384e156dc92d01d91bf3a4966c8d8e2))
+* clean up build ([0977aa3](https://github.com/tecidosbr/gestao-normas/commit/0977aa354f6aa5dab0a0e84838d586f681d74747))
+* deploy pipeline ([03fd12c](https://github.com/tecidosbr/gestao-normas/commit/03fd12cce7ab003efb01b5efa8a911cba2d1651c))
+* use only lcov as reporter ([9f0d7e9](https://github.com/tecidosbr/gestao-normas/commit/9f0d7e9ea234583a19f24083a25573fffcac48a3))
+
 ## [1.0.8](https://github.com/tecidosbr/gestao-normas/compare/v1.0.7...v1.0.8) (2021-02-04)
 
 
