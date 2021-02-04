@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "build": "lerna run build --parallel",
-    "coverage": "lerna run coverage --parallel -- --coverageReporters lcov",
+    "coverage": "lerna run coverage --parallel",
     "lint": "lerna run lint --parallel",
     "postinstall": "lerna exec  --parallel -- npm ci",
     "release": "npx semantic-release",
@@ -26,11 +26,6 @@
     "lerna": "^3.22.1",
     "npm-pack-all": "^1.12.3",
     "semantic-release": "^17.3.4",
-    "shx": "^0.3.3",
-    "tar-to-zip": "^3.0.0"
-  },
-  "dependencies": {
-    "@azure/storage-blob": "^12.4.0",
-    "dotenv-flow": "^3.2.0"
+    "shx": "^0.3.3"
   }
 }

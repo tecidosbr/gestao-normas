@@ -16,10 +16,10 @@ module.exports = {
       "prepareCmd": "lerna exec -- npm prune --production"
     }],
     ["@semantic-release/exec", {
-      "prepareCmd": "lerna exec -- node ../../node_modules/npm-pack-all --output ../../release/"
+      "prepareCmd": "lerna exec -- ../../node_modules/.bin/npm-bundle"
     }],
     ["@semantic-release/exec", {
-      "prepareCmd": "tar2zip release/*.tgz"
+      "prepareCmd": "lerna exec -- ../../node_modules/.bin/shx cp *.tgz ../../release"
     }],
     ["@semantic-release/git", {
       "assets": ["CHANGELOG.md", "lerna.json", "package*.json", "packages/*/package*.json"],
