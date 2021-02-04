@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/tecidosbr/gestao-normas/compare/v1.0.7...v1.0.8) (2021-02-04)
+
+
+### Bug Fixes
+
+* enhance production build ([4989a96](https://github.com/tecidosbr/gestao-normas/commit/4989a9622317eff61ba26ae7b431dcaabd3dc022))
+
 ## [1.0.7](https://github.com/tecidosbr/gestao-normas/compare/v1.0.6...v1.0.7) (2021-02-04)
 
 
