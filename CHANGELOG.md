@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/tecidosbr/gestao-normas/compare/v1.0.3...v1.0.4) (2021-02-04)
+
+
+### Bug Fixes
+
+* env ([c92a53e](https://github.com/tecidosbr/gestao-normas/commit/c92a53e509817b485a75718beafe68b7c2f7bf80))
+
 ## [1.0.3](https://github.com/tecidosbr/gestao-normas/compare/v1.0.2...v1.0.3) (2021-02-04)
 
 
