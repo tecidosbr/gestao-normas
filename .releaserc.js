@@ -13,10 +13,7 @@ module.exports = {
       "prepareCmd": "shx rm -rf release && shx mkdir release"
     }],
     ["@semantic-release/exec", {
-      "prepareCmd": "lerna exec -- npm prune --production"
-    }],
-    ["@semantic-release/exec", {
-      "prepareCmd": "lerna exec -- node ../../node_modules/.bin/npm-bundle"
+      "prepareCmd": "lerna exec -- npm pack"
     }],
     ["@semantic-release/exec", {
       "prepareCmd": "lerna exec -- node ../../node_modules/.bin/shx cp '*.tgz' ../../release"

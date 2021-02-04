@@ -60,8 +60,5 @@
     "setupFilesAfterEnv": [
       "direflow-scripts/direflow-jest.config.js"
     ]
-  },
-  "bundledDependencies": [
-    "react-hook-form"
-  ]
+  }
 }

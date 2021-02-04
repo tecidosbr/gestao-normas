@@ -92,16 +92,5 @@
       ]
     ],
     "outputDirectory": "coverage"
-  },
-  "bundledDependencies": [
-    "@azure/functions",
-    "@nestjs-addons/in-memory-db",
-    "@nestjs/azure-func-http",
-    "@nestjs/common",
-    "@nestjs/core",
-    "@nestjs/platform-express",
-    "@nestjs/swagger",
-    "axios",
-    "reflect-metadata"
-  ]
+  }
 }
