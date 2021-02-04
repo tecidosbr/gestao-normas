@@ -16,7 +16,7 @@ module.exports = {
       "prepareCmd": "lerna exec -- npm prune --production"
     }],
     ["@semantic-release/exec", {
-      "prepareCmd": "lerna exec -- node ../../node_modules/npm-bundle"
+      "prepareCmd": "lerna exec -- node ../../node_modules/.bin/npm-bundle"
     }],
     ["@semantic-release/exec", {
       "prepareCmd": "lerna exec -- node ../../node_modules/.bin/shx cp '*.tgz' ../../release"
