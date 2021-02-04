@@ -1,7 +1,7 @@
 {
   "name": "gestao-normas-webapp",
   "description": "",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "private": true,
   "scripts": {
     "start": "direflow-scripts start",

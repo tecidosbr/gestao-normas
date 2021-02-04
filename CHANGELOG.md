@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/tecidosbr/gestao-normas/compare/v1.0.12...v1.0.13) (2021-02-04)
+
+
+### Bug Fixes
+
+* remove unused .npmignore ([a2860c5](https://github.com/tecidosbr/gestao-normas/commit/a2860c5637ea73c0b6067e2a6909f7e037b67a82))
+
 ## [1.0.12](https://github.com/tecidosbr/gestao-normas/compare/v1.0.11...v1.0.12) (2021-02-04)
 
 
