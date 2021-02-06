@@ -12,7 +12,6 @@
     "build": "lerna run build --parallel",
     "coverage": "lerna run coverage --parallel",
     "lint": "lerna run lint --parallel",
-    "postinstall": "lerna exec  --parallel -- npm ci",
     "release": "npx semantic-release",
     "start:dev": "lerna run start:dev --parallel"
   },
@@ -24,7 +23,7 @@
     "@semantic-release/github": "^7.2.0",
     "@semantic-release/release-notes-generator": "^9.0.1",
     "lerna": "^3.22.1",
-    "npm-bundle": "^3.0.3",
+    "npm-pack-all": "^1.12.3",
     "semantic-release": "^17.3.4",
     "shx": "^0.3.3"
   }
