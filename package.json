@@ -12,6 +12,7 @@
     "build": "lerna run build --parallel",
     "coverage": "lerna run coverage --parallel",
     "lint": "lerna run lint --parallel",
+    "postinstall": "lerna exec  --parallel -- npm ci",
     "release": "npx semantic-release",
     "start:dev": "lerna run start:dev --parallel"
   },
