@@ -8,7 +8,7 @@ export async function bootstrap(app: INestApplication) {
 }
 function enableSwagger(app: INestApplication) {
   const config = new DocumentBuilder()
-    .setTitle('Gestão Contratos')
+    .setTitle('Gestão Normas')
     .setVersion('1.0')
     .build();
 
