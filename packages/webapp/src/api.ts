@@ -22,7 +22,7 @@ export function useFetchApi<T>(path: string, idToken: string) {
           setLoading(false);
         }
       })();
-    }, [path]);
+    }, [path, idToken]);
   
     return { data, loading, error };
   }
