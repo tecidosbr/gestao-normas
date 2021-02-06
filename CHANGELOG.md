@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/tecidosbr/gestao-normas/compare/v1.4.0...v1.4.1) (2021-02-06)
+
+
+### Bug Fixes
+
+* api name ([bb80d9a](https://github.com/tecidosbr/gestao-normas/commit/bb80d9a4c57e28d4fad64b9bd2c213e763f277d3))
+
 # [1.4.0](https://github.com/tecidosbr/gestao-normas/compare/v1.3.2...v1.4.0) (2021-02-06)
 
 
