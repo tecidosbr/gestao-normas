@@ -31,7 +31,8 @@
     "@nestjs/platform-express": "^7.5.1",
     "@nestjs/swagger": "^4.7.12",
     "axios": "^0.21.1",
-    "reflect-metadata": "^0.1.13"
+    "reflect-metadata": "^0.1.13",
+    "swagger-ui-express": "^4.1.6"
   },
   "devDependencies": {
     "@nestjs/cli": "^7.5.1",
@@ -50,7 +51,6 @@
     "prettier": "^2.1.2",
     "rimraf": "^3.0.2",
     "supertest": "^6.1.3",
-    "swagger-ui-express": "^4.1.6",
     "ts-jest": "^26.5.0",
     "ts-loader": "^8.0.15",
     "ts-node": "^9.0.0",
