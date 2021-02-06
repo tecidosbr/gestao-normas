@@ -10,7 +10,11 @@ export function useFetchApi<T>(path: string) {
         try {
           setData(null);
           setLoading(true);
-          const response = await fetch(`${process.env.SERVICE_URL}/${path}`);
+          const response = await fetch(`${process.env.SERVICE_URL}/${path}`, {
+            headers: {
+              'Authorization': `Bearer ${sessionStorage.getItem('idToken')}` 
+            }
+          });
           setData(await response.json());
         } catch (e) {
           setError(e);
