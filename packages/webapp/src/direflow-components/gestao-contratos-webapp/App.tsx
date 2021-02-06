@@ -22,7 +22,7 @@ export const App: FunctionComponent = () => {
 
   useEffect(() => {
     setIdToken(sessionStorage.getItem('idToken') ?? '');
-  }, []);
+  });
 
   const { register, handleSubmit, reset } = useForm<{
     palavrasChave: string;
