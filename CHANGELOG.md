@@ -1,3 +1,11 @@
+## [1.3.2](https://github.com/tecidosbr/gestao-normas/compare/v1.3.1...v1.3.2) (2021-02-06)
+
+
+### Bug Fixes
+
+* idToken usage ([aa67ec1](https://github.com/tecidosbr/gestao-normas/commit/aa67ec1d0a5e7f5951c998aa7ce4c1349b663605))
+* missing dep ([5c1e246](https://github.com/tecidosbr/gestao-normas/commit/5c1e246bf41b5602570c8a62063d78c110609235))
+
 ## [1.3.1](https://github.com/tecidosbr/gestao-normas/compare/v1.3.0...v1.3.1) (2021-02-06)
 
 
