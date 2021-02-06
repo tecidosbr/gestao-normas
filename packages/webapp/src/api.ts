@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-export function useFetchApi<T>(path: string) {
+export function useFetchApi<T>(path: string, idToken: string) {
     const [data, setData] = useState<T | null>(null);
     const [loading, setLoading] = useState<boolean>(false);
     const [error, setError] = useState<T | null>(null);
@@ -12,7 +12,7 @@ export function useFetchApi<T>(path: string) {
           setLoading(true);
           const response = await fetch(`${process.env.SERVICE_URL}/${path}`, {
             headers: {
-              'Authorization': `Bearer ${sessionStorage.getItem('idToken')}` 
+              'Authorization': `Bearer ${idToken}` 
             }
           });
           setData(await response.json());

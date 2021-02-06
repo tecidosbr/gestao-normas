@@ -1,4 +1,4 @@
-import React, { FunctionComponent, useState } from 'react';
+import React, { FunctionComponent, useEffect, useState } from 'react';
 import { useForm } from "react-hook-form";
 
 import { IcsListDto, NormaListDto, SearchNormaDto } from "../../../../service/src/dto";
@@ -14,10 +14,15 @@ const bodyStyle = {
 };
 
 export const App: FunctionComponent = () => {
+  const [idToken, setIdToken] = useState<string>('');
   const [searchNormaDto, setSearchNormaDto] = useState<Record<keyof SearchNormaDto, string>>({ search: '*', filter: '' });
 
-  const { data: icss } = useFetchApi<IcsListDto>('ics');
-  const { data: normas } = useFetchApi<NormaListDto>(`norma/search?${new URLSearchParams(searchNormaDto)}`);
+  const { data: icss } = useFetchApi<IcsListDto>('ics', idToken);
+  const { data: normas } = useFetchApi<NormaListDto>(`norma/search?${new URLSearchParams(searchNormaDto)}`, idToken);
+
+  useEffect(() => {
+    setIdToken(sessionStorage.getItem('idToken') ?? '');
+  }, []);
 
   const { register, handleSubmit, reset } = useForm<{
     palavrasChave: string;
