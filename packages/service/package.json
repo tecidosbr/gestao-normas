@@ -23,7 +23,7 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@azure/functions": "^1.0.3",
+    "@azure/functions": "^1.2.3",
     "@nestjs-addons/in-memory-db": "^2.0.3",
     "@nestjs/azure-func-http": "^0.6.0",
     "@nestjs/common": "^7.6.11",
