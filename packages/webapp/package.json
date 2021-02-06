@@ -13,7 +13,7 @@
     "test": "direflow-scripts test"
   },
   "dependencies": {
-    "react-hook-form": "^6.14.2"
+    "react-hook-form": "^6.15.1"
   },
   "devDependencies": {
     "@types/jest": "24.0.18",
