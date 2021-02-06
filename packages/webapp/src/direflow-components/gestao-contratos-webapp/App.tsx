@@ -13,16 +13,11 @@ const bodyStyle = {
   color: '#212529'
 };
 
-export const App: FunctionComponent = () => {
-  const [idToken, setIdToken] = useState<string>('');
+export const App: FunctionComponent<{ idToken: string }> = ({ idToken }) => {
   const [searchNormaDto, setSearchNormaDto] = useState<Record<keyof SearchNormaDto, string>>({ search: '*', filter: '' });
 
   const { data: icss } = useFetchApi<IcsListDto>('ics', idToken);
   const { data: normas } = useFetchApi<NormaListDto>(`norma/search?${new URLSearchParams(searchNormaDto)}`, idToken);
-
-  useEffect(() => {
-    setIdToken(sessionStorage.getItem('idToken') ?? '');
-  });
 
   const { register, handleSubmit, reset } = useForm<{
     palavrasChave: string;

@@ -1,6 +1,10 @@
 import { DireflowComponent } from 'direflow-component';
 import { App } from './App';
 
+App.defaultProps = {
+  idToken: '',
+}
+
 export default DireflowComponent.create({
   component: App,
   configuration: {
@@ -17,7 +21,6 @@ export default DireflowComponent.create({
           families: ['bootstrap-icons'],
           urls: ['https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css']
         }
-
       },
     },
     {
