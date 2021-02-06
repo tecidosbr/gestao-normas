@@ -1,0 +1,22 @@
+version: 1
+update_configs:
+  - package_manager: "javascript"
+    directory: "/"
+    update_schedule: "weekly"
+    commit_message:
+      prefix: "chore"
+      include_scope: true
+
+  - package_manager: "javascript"
+    directory: "/packages/service"
+    update_schedule: "weekly"
+    commit_message:
+      prefix: "chore"
+      include_scope: true
+
+  - package_manager: "javascript"
+    directory: "/packages/webapp"
+    update_schedule: "weekly"
+    commit_message:
+      prefix: "chore"
+      include_scope: true
