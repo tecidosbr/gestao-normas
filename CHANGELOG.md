@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/tecidosbr/gestao-normas/compare/v1.2.1...v1.3.0) (2021-02-06)
+
+
+### Features
+
+* add token to api ([5dd5028](https://github.com/tecidosbr/gestao-normas/commit/5dd50289f86076adeba91f8d9808e0ddc7e75690))
+
 ## [1.2.1](https://github.com/tecidosbr/gestao-normas/compare/v1.2.0...v1.2.1) (2021-02-06)
 
 
