@@ -1,3 +1,11 @@
+## [1.3.1](https://github.com/tecidosbr/gestao-normas/compare/v1.3.0...v1.3.1) (2021-02-06)
+
+
+### Bug Fixes
+
+* bundle ([ce2cc60](https://github.com/tecidosbr/gestao-normas/commit/ce2cc6007c672b8ef70e40e749808e0c930fbe65))
+* ci ([733ba01](https://github.com/tecidosbr/gestao-normas/commit/733ba012af054d255957335ced24df96afbb858f))
+
 # [1.3.0](https://github.com/tecidosbr/gestao-normas/compare/v1.2.1...v1.3.0) (2021-02-06)
 
 
