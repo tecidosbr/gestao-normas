@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/tecidosbr/gestao-normas/compare/v1.3.2...v1.4.0) (2021-02-06)
+
+
+### Bug Fixes
+
+* hook usage ([797ea21](https://github.com/tecidosbr/gestao-normas/commit/797ea211534a0457f3063b760020a29bf797a7ce))
+
+
+### Features
+
+* use idToken from props ([39301fa](https://github.com/tecidosbr/gestao-normas/commit/39301fa129bc6624c8cf50bdd0bdbec6ae4012e1))
+
 ## [1.3.2](https://github.com/tecidosbr/gestao-normas/compare/v1.3.1...v1.3.2) (2021-02-06)
 
 
