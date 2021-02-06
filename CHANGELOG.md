@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/tecidosbr/gestao-normas/compare/v1.2.0...v1.2.1) (2021-02-06)
+
+
+### Bug Fixes
+
+* dependencies ([b0c59cd](https://github.com/tecidosbr/gestao-normas/commit/b0c59cd5f154814c86080ce6c958e61eac59e41c))
+
 # [1.2.0](https://github.com/tecidosbr/gestao-normas/compare/v1.1.0...v1.2.0) (2021-02-06)
 
 

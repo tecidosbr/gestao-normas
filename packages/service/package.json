@@ -1,6 +1,6 @@
 {
   "name": "gestao-normas-service",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "",
   "author": "",
   "private": true,
@@ -102,6 +102,7 @@
     "@nestjs/platform-express",
     "@nestjs/swagger",
     "axios",
-    "reflect-metadata"
+    "reflect-metadata",
+    "swagger-ui-express"
   ]
 }
