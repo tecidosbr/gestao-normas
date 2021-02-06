@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/tecidosbr/gestao-normas/compare/v1.1.0...v1.2.0) (2021-02-06)
+
+
+### Features
+
+* add dependabot ([6d54f5d](https://github.com/tecidosbr/gestao-normas/commit/6d54f5db8a023c767e752648120fb1bfe4e36cd2))
+
 # [1.1.0](https://github.com/tecidosbr/gestao-normas/compare/v1.0.13...v1.1.0) (2021-02-04)
 
 
