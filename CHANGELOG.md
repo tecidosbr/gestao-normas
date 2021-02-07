@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/tecidosbr/gestao-normas/compare/v1.4.2...v1.4.3) (2021-02-07)
+
+
+### Bug Fixes
+
+* ignore node_modules ([e505702](https://github.com/tecidosbr/gestao-normas/commit/e505702b156ca26a9f4aee8e941a51663beb5a70))
+
 ## [1.4.2](https://github.com/tecidosbr/gestao-normas/compare/v1.4.1...v1.4.2) (2021-02-07)
 
 
