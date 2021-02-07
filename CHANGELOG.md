@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/tecidosbr/gestao-normas/compare/v1.4.1...v1.4.2) (2021-02-07)
+
+
+### Bug Fixes
+
+* default props ([dc6e66d](https://github.com/tecidosbr/gestao-normas/commit/dc6e66d1a02a75743da625cbf6a6c1396f6d06a4))
+
 ## [1.4.1](https://github.com/tecidosbr/gestao-normas/compare/v1.4.0...v1.4.1) (2021-02-06)
 
 
