@@ -1,14 +1,13 @@
 import { DireflowComponent } from 'direflow-component';
 import { App } from './App';
 
-App.defaultProps = {
-  idToken: '',
-}
-
 export default DireflowComponent.create({
   component: App,
   configuration: {
     tagname: 'gestao-normas-webapp',
+  },
+  properties: {
+    idToken: '',
   },
   plugins: [
     {
