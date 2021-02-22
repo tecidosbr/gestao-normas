@@ -31,7 +31,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.22.0",
     "jest-environment-jsdom-fourteen": "1.0.1",
-    "react": "16.13.1",
+    "react": "17.0.1",
     "react-app-rewired": "2.1.8",
     "react-dom": "16.13.1",
     "react-scripts": "^3.4.4",
