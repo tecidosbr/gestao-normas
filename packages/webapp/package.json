@@ -34,7 +34,7 @@
     "react": "16.13.1",
     "react-app-rewired": "2.1.8",
     "react-dom": "16.13.1",
-    "react-scripts": "^3.4.4",
+    "react-scripts": "^4.0.3",
     "react-test-renderer": "16.13.1",
     "to-string-loader": "^1.1.6",
     "ts-loader": "^8.0.15",
