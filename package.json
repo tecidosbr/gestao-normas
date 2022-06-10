@@ -25,7 +25,7 @@
     "@semantic-release/release-notes-generator": "^9.0.1",
     "lerna": "^3.22.1",
     "npm-pack-all": "^1.12.3",
-    "semantic-release": "^17.3.4",
+    "semantic-release": "^19.0.3",
     "shx": "^0.3.3"
   }
 }
